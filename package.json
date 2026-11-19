@@ -1,0 +1,15 @@
+{
+  "name": "meadowlane-dam-check",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Check script and starter project for the Cloudinary DAM practice project",
+  "scripts": {
+    "check": "node check.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cloudinary": "^2.11.0"
+  }
+}

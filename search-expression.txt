@@ -1,0 +1,2 @@
+# Step 9: replace these note lines with your Search API expression (one expression, any number of lines).
+# Lines that start with # are ignored. Run `node check.js` to test it.
